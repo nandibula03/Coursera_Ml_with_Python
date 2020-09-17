@@ -1,2 +1,2 @@
-# Coursera_Ml_with_Python
+# Coursera_ML_with_Python
 Final Project 
